@@ -1,5 +1,5 @@
 function logToConsole() {
-  console.log('FROM test/test.js');
+  console.log("FROM test/test.js");
 
   console.log(__dirname);
 
@@ -10,4 +10,4 @@ function logToConsole() {
 
 module.exports = {
   logToConsole,
-}
+};
